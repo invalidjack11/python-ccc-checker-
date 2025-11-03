@@ -1,1 +1,1 @@
-# python-ccc-checker-
+# python-cc killer-
