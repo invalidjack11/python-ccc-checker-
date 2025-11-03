@@ -57,7 +57,7 @@ def process_card(card_data, thread_num):
             'billing_period': 'yearly',
             'billing_first_name': name2,
             'billing_pin': zip_code,
-            'billing_country': 'United States',
+            'billing_country': 'India',
             'auto_renewal': '3652',
             'coupon_code': '',
             'from_source': 'live',
